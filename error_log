@@ -1,0 +1,983 @@
+[23-Nov-2017 06:11:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/zzxqdmac/public_html/mantap/db_config.php on line 12
+[23-Nov-2017 06:12:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/zzxqdmac/public_html/mantap/db_config.php on line 12
+[23-Nov-2017 06:12:54 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/db_config.php on line 13
+[23-Nov-2017 06:13:42 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/db_config.php on line 13
+[23-Nov-2017 06:13:56 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/zzxqdmac/public_html/mantap/db_config.php on line 13
+[23-Nov-2017 06:13:56 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/zzxqdmac/public_html/mantap/db_config.php on line 13
+[23-Nov-2017 06:13:56 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/zzxqdmac/public_html/mantap/db_config.php on line 13
+[23-Nov-2017 06:15:58 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/db_config.php on line 13
+[04-Dec-2017 00:33:35 UTC] PHP Notice:  Undefined index: level in /home/zzxqdmac/public_html/mantap/read_users.php on line 37
+[04-Dec-2017 00:33:35 UTC] PHP Notice:  Undefined index: last_login in /home/zzxqdmac/public_html/mantap/read_users.php on line 38
+[04-Dec-2017 00:33:35 UTC] PHP Notice:  Undefined index: level in /home/zzxqdmac/public_html/mantap/read_users.php on line 37
+[04-Dec-2017 00:33:35 UTC] PHP Notice:  Undefined index: last_login in /home/zzxqdmac/public_html/mantap/read_users.php on line 38
+[04-Dec-2017 00:33:35 UTC] PHP Notice:  Undefined index: level in /home/zzxqdmac/public_html/mantap/read_users.php on line 37
+[04-Dec-2017 00:33:35 UTC] PHP Notice:  Undefined index: last_login in /home/zzxqdmac/public_html/mantap/read_users.php on line 38
+[09-Dec-2017 15:12:18 UTC] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:12:18 UTC] PHP Warning:  move_uploaded_file(http://tenergies.com/mantap/images/IMG_Mantap_20171209_221037.jpg.png): failed to open stream: no suitable wrapper could be found in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:12:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6mYnyC' to 'http://tenergies.com/mantap/images/IMG_Mantap_20171209_221037.jpg.png' in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:12:26 UTC] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:12:26 UTC] PHP Warning:  move_uploaded_file(http://tenergies.com/mantap/images/IMG_Mantap_20171209_221037.jpg.png): failed to open stream: no suitable wrapper could be found in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:12:26 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHRBDnI' to 'http://tenergies.com/mantap/images/IMG_Mantap_20171209_221037.jpg.png' in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:22:37 UTC] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:22:37 UTC] PHP Warning:  move_uploaded_file(http://tenergies.com/mantap/images/IMG_Mantap_20171209_221959.jpg.png): failed to open stream: no suitable wrapper could be found in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:22:37 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpih9DKo' to 'http://tenergies.com/mantap/images/IMG_Mantap_20171209_221959.jpg.png' in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:27:53 UTC] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:27:53 UTC] PHP Warning:  move_uploaded_file(http://tenergies.com/mantap/images/IMG_Mantap_20171209_221037.jpg): failed to open stream: no suitable wrapper could be found in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:27:53 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiMHJV0' to 'http://tenergies.com/mantap/images/IMG_Mantap_20171209_221037.jpg' in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:41:40 UTC] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:41:40 UTC] PHP Warning:  move_uploaded_file(http://tenergies.com/mantap/images/IMG_Mantap_20171209_224010.jpg): failed to open stream: no suitable wrapper could be found in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:41:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4l3Zh1' to 'http://tenergies.com/mantap/images/IMG_Mantap_20171209_224010.jpg' in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 15:48:58 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zzxqdmac/public_html/mantap/addattendance.php on line 35
+[09-Dec-2017 15:49:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zzxqdmac/public_html/mantap/addattendance.php on line 35
+[09-Dec-2017 15:49:54 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zzxqdmac/public_html/mantap/addattendance.php on line 35
+[09-Dec-2017 15:49:58 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zzxqdmac/public_html/mantap/addattendance.php on line 35
+[09-Dec-2017 15:50:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zzxqdmac/public_html/mantap/addattendance.php on line 35
+[09-Dec-2017 15:50:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zzxqdmac/public_html/mantap/addattendance.php on line 35
+[09-Dec-2017 15:50:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zzxqdmac/public_html/mantap/addattendance.php on line 35
+[09-Dec-2017 15:57:27 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zzxqdmac/public_html/mantap/addattendance.php on line 35
+[09-Dec-2017 16:02:31 UTC] PHP Warning:  move_uploaded_file(tenergies.com/mantap/images/IMG_Mantap_20171209_230226.jpg): failed to open stream: No such file or directory in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 16:02:31 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQbf7bP' to 'tenergies.com/mantap/images/IMG_Mantap_20171209_230226.jpg' in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 16:04:09 UTC] PHP Warning:  move_uploaded_file(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 16:04:09 UTC] PHP Warning:  move_uploaded_file(https://tenergies.com/mantap/images/IMG_Mantap_20171209_230226.jpg): failed to open stream: no suitable wrapper could be found in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[09-Dec-2017 16:04:09 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSQvALO' to 'https://tenergies.com/mantap/images/IMG_Mantap_20171209_230226.jpg' in /home/zzxqdmac/public_html/mantap/addattendance.php on line 41
+[10-Dec-2017 16:10:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 15
+[10-Dec-2017 16:10:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 15
+[10-Dec-2017 16:11:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 16
+[10-Dec-2017 16:11:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 16
+[10-Dec-2017 16:16:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 16
+[10-Dec-2017 16:16:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 19
+[10-Dec-2017 16:19:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 19
+[10-Dec-2017 16:20:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 16
+[10-Dec-2017 16:20:44 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 18
+[10-Dec-2017 16:21:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 16
+[10-Dec-2017 16:21:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 17
+[10-Dec-2017 16:22:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 16
+[10-Dec-2017 16:22:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 17
+[10-Dec-2017 16:22:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 16
+[10-Dec-2017 16:22:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 17
+[10-Dec-2017 16:27:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 16
+[10-Dec-2017 16:28:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 16
+[10-Dec-2017 16:29:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 16
+[10-Dec-2017 16:30:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/zzxqdmac/public_html/mantap/getuserprofile.php on line 19
+[11-Dec-2017 08:28:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zzxqdmac/public_html/mantap/updatesessioncheck.php on line 21
+[15-Dec-2017 18:51:52 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/zzxqdmac/public_html/mantap/getreport.php on line 24
+[25-Dec-2017 20:06:20 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in /home/rapierte/public_html/mantap/koneksi.php on line 8
+[25-Dec-2017 20:07:33 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/rapierte/public_html/mantap/login.php on line 17
+[25-Dec-2017 20:07:33 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rapierte/public_html/mantap/login.php on line 17
+[25-Dec-2017 20:07:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rapierte/public_html/mantap/login.php on line 19
+[25-Dec-2017 20:07:53 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/rapierte/public_html/mantap/login.php on line 17
+[25-Dec-2017 20:07:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rapierte/public_html/mantap/login.php on line 17
+[25-Dec-2017 20:07:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rapierte/public_html/mantap/login.php on line 19
+[25-Dec-2017 20:07:55 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/rapierte/public_html/mantap/login.php on line 17
+[25-Dec-2017 20:07:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rapierte/public_html/mantap/login.php on line 17
+[25-Dec-2017 20:07:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rapierte/public_html/mantap/login.php on line 19
+[25-Dec-2017 20:08:03 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/rapierte/public_html/mantap/login.php on line 17
+[25-Dec-2017 20:08:03 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rapierte/public_html/mantap/login.php on line 17
+[25-Dec-2017 20:08:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rapierte/public_html/mantap/login.php on line 19
+[28-Dec-2017 23:07:03 Asia/Jakarta] PHP Notice:  Undefined variable: db in /home/rapierte/public_html/mantap/getrecovery.php on line 28
+[28-Dec-2017 23:07:03 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rapierte/public_html/mantap/getrecovery.php on line 28
+[28-Dec-2017 23:07:03 Asia/Jakarta] PHP Notice:  Undefined variable: msgclass in /home/rapierte/public_html/mantap/getrecovery.php on line 102
+[28-Dec-2017 23:08:20 Asia/Jakarta] PHP Notice:  Undefined variable: db in /home/rapierte/public_html/mantap/getrecovery.php on line 28
+[28-Dec-2017 23:08:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rapierte/public_html/mantap/getrecovery.php on line 28
+[28-Dec-2017 23:08:20 Asia/Jakarta] PHP Notice:  Undefined variable: msgclass in /home/rapierte/public_html/mantap/getrecovery.php on line 102
+[28-Dec-2017 23:08:26 Asia/Jakarta] PHP Notice:  Undefined variable: db in /home/rapierte/public_html/mantap/getrecovery.php on line 28
+[28-Dec-2017 23:08:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rapierte/public_html/mantap/getrecovery.php on line 28
+[28-Dec-2017 23:08:26 Asia/Jakarta] PHP Notice:  Undefined variable: msgclass in /home/rapierte/public_html/mantap/getrecovery.php on line 102
+[28-Dec-2017 23:08:51 Asia/Jakarta] PHP Notice:  Undefined variable: db in /home/rapierte/public_html/mantap/getrecovery.php on line 28
+[28-Dec-2017 23:08:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/rapierte/public_html/mantap/getrecovery.php on line 28
+[28-Dec-2017 23:08:51 Asia/Jakarta] PHP Notice:  Undefined variable: msgclass in /home/rapierte/public_html/mantap/getrecovery.php on line 102
+[29-Dec-2017 14:56:04 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[29-Dec-2017 15:00:12 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[29-Dec-2017 15:00:16 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 15:00:16 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 15:00:16 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 18:34:46 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[29-Dec-2017 18:34:51 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 18:34:51 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 18:34:51 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 18:41:52 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[29-Dec-2017 18:41:59 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 18:41:59 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 18:41:59 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 18:47:32 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 18:47:32 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 18:47:32 Asia/Jakarta] PHP Notice:  Undefined index: profile_image in /home/rapierte/public_html/mantap/getreport.php on line 33
+[29-Dec-2017 18:57:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[29-Dec-2017 19:45:38 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[29-Dec-2017 22:19:14 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[29-Dec-2017 22:28:11 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[29-Dec-2017 22:31:53 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[29-Dec-2017 22:39:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 00:34:00 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 00:34:47 Asia/Jakarta] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'zzxqdmac_mantap'@'localhost' (using password: YES) in /home/rapierte/public_html/mantap/addtimeoff.php on line 2
+[30-Dec-2017 00:34:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rapierte/public_html/mantap/addtimeoff.php on line 33
+[30-Dec-2017 00:34:47 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rapierte/public_html/mantap/addtimeoff.php on line 33
+[30-Dec-2017 00:34:59 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 00:38:28 Asia/Jakarta] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'zzxqdmac_mantap'@'localhost' (using password: YES) in /home/rapierte/public_html/mantap/addovertime.php on line 2
+[30-Dec-2017 00:38:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rapierte/public_html/mantap/addovertime.php on line 33
+[30-Dec-2017 00:38:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rapierte/public_html/mantap/addovertime.php on line 33
+[30-Dec-2017 00:38:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 00:39:05 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 00:41:32 Asia/Jakarta] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'zzxqdmac_mantap'@'localhost' (using password: YES) in /home/rapierte/public_html/mantap/addattendance.php on line 3
+[30-Dec-2017 00:41:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rapierte/public_html/mantap/addattendance.php on line 37
+[30-Dec-2017 00:41:32 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 00:41:39 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 12:43:12 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 13:58:47 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/rapierte/public_html/mantap/getapprove.php on line 30
+[30-Dec-2017 13:58:52 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/rapierte/public_html/mantap/getapprove.php on line 30
+[30-Dec-2017 13:59:18 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/rapierte/public_html/mantap/getapprove.php on line 30
+[30-Dec-2017 13:59:41 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/rapierte/public_html/mantap/getapprove.php on line 30
+[30-Dec-2017 13:59:49 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/rapierte/public_html/mantap/getapprove.php on line 30
+[30-Dec-2017 14:48:41 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 14:48:50 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/getapprove.php on line 6
+[30-Dec-2017 14:49:09 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/getapprove.php on line 6
+[30-Dec-2017 14:50:00 Asia/Jakarta] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'zzxqdmac_mantap'@'localhost' (using password: YES) in /home/rapierte/public_html/mantap/addtimeoff.php on line 2
+[30-Dec-2017 14:50:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rapierte/public_html/mantap/addtimeoff.php on line 33
+[30-Dec-2017 14:50:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rapierte/public_html/mantap/addtimeoff.php on line 33
+[30-Dec-2017 14:50:35 Asia/Jakarta] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'zzxqdmac_mantap'@'localhost' (using password: YES) in /home/rapierte/public_html/mantap/addovertime.php on line 2
+[30-Dec-2017 14:50:35 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rapierte/public_html/mantap/addovertime.php on line 33
+[30-Dec-2017 14:50:35 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rapierte/public_html/mantap/addovertime.php on line 33
+[30-Dec-2017 15:10:54 Asia/Jakarta] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'zzxqdmac_mantap'@'localhost' (using password: YES) in /home/rapierte/public_html/mantap/addovertime.php on line 2
+[30-Dec-2017 15:11:04 Asia/Jakarta] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'zzxqdmac_mantap'@'localhost' (using password: YES) in /home/rapierte/public_html/mantap/addovertime.php on line 2
+[30-Dec-2017 15:11:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rapierte/public_html/mantap/addovertime.php on line 33
+[30-Dec-2017 15:11:04 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/rapierte/public_html/mantap/addovertime.php on line 33
+[30-Dec-2017 15:20:44 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:21:31 Asia/Jakarta] PHP Notice:  Undefined variable: date in /home/rapierte/public_html/mantap/addtimeoff.php on line 36
+[30-Dec-2017 15:21:31 Asia/Jakarta] PHP Notice:  Undefined variable: start_hour in /home/rapierte/public_html/mantap/addtimeoff.php on line 36
+[30-Dec-2017 15:21:31 Asia/Jakarta] PHP Notice:  Undefined variable: end_hour in /home/rapierte/public_html/mantap/addtimeoff.php on line 36
+[30-Dec-2017 15:21:31 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:21:38 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:21:55 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:22:10 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:26:52 Asia/Jakarta] PHP Notice:  Undefined variable: date in /home/rapierte/public_html/mantap/addtimeoff.php on line 36
+[30-Dec-2017 15:26:52 Asia/Jakarta] PHP Notice:  Undefined variable: start_hour in /home/rapierte/public_html/mantap/addtimeoff.php on line 36
+[30-Dec-2017 15:26:52 Asia/Jakarta] PHP Notice:  Undefined variable: end_hour in /home/rapierte/public_html/mantap/addtimeoff.php on line 36
+[30-Dec-2017 15:26:52 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:45:58 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:49:41 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:50:36 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:50:58 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:53:14 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:53:54 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:54:00 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 15:56:20 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 16:05:37 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 16:05:56 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 16:12:24 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 16:13:19 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 16:14:17 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 16:16:13 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 16:41:23 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 19:19:46 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 19:21:43 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 22:15:01 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[30-Dec-2017 23:02:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/rapierte/public_html/mantap/getapprove.php on line 31
+[30-Dec-2017 23:02:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/rapierte/public_html/mantap/getapprove.php on line 31
+[30-Dec-2017 23:11:08 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/rapierte/public_html/mantap/getapprove.php on line 30
+[30-Dec-2017 23:11:20 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/rapierte/public_html/mantap/getapprove.php on line 30
+[30-Dec-2017 23:11:32 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/rapierte/public_html/mantap/getapprove.php on line 30
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: start_date in /home/rapierte/public_html/mantap/getapprove.php on line 37
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: end_date in /home/rapierte/public_html/mantap/getapprove.php on line 38
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/rapierte/public_html/mantap/getapprove.php on line 39
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/getapprove.php on line 40
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/getapprove.php on line 41
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/getapprove.php on line 42
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: start_date in /home/rapierte/public_html/mantap/getapprove.php on line 37
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: end_date in /home/rapierte/public_html/mantap/getapprove.php on line 38
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/rapierte/public_html/mantap/getapprove.php on line 39
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/getapprove.php on line 40
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/getapprove.php on line 41
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/getapprove.php on line 42
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: start_date in /home/rapierte/public_html/mantap/getapprove.php on line 37
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: end_date in /home/rapierte/public_html/mantap/getapprove.php on line 38
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/rapierte/public_html/mantap/getapprove.php on line 39
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/getapprove.php on line 40
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/getapprove.php on line 41
+[30-Dec-2017 23:15:52 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/getapprove.php on line 42
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: start_date in /home/rapierte/public_html/mantap/getapprove.php on line 37
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: end_date in /home/rapierte/public_html/mantap/getapprove.php on line 38
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/rapierte/public_html/mantap/getapprove.php on line 39
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/getapprove.php on line 40
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/getapprove.php on line 41
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/getapprove.php on line 42
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: start_date in /home/rapierte/public_html/mantap/getapprove.php on line 37
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: end_date in /home/rapierte/public_html/mantap/getapprove.php on line 38
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/rapierte/public_html/mantap/getapprove.php on line 39
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/getapprove.php on line 40
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/getapprove.php on line 41
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/getapprove.php on line 42
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: start_date in /home/rapierte/public_html/mantap/getapprove.php on line 37
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: end_date in /home/rapierte/public_html/mantap/getapprove.php on line 38
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/rapierte/public_html/mantap/getapprove.php on line 39
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/getapprove.php on line 40
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/getapprove.php on line 41
+[30-Dec-2017 23:16:09 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/getapprove.php on line 42
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: start_date in /home/rapierte/public_html/mantap/getapprove.php on line 37
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: end_date in /home/rapierte/public_html/mantap/getapprove.php on line 38
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/rapierte/public_html/mantap/getapprove.php on line 39
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/getapprove.php on line 40
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/getapprove.php on line 41
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/getapprove.php on line 42
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: start_date in /home/rapierte/public_html/mantap/getapprove.php on line 37
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: end_date in /home/rapierte/public_html/mantap/getapprove.php on line 38
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/rapierte/public_html/mantap/getapprove.php on line 39
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/getapprove.php on line 40
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/getapprove.php on line 41
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/getapprove.php on line 42
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: start_date in /home/rapierte/public_html/mantap/getapprove.php on line 37
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: end_date in /home/rapierte/public_html/mantap/getapprove.php on line 38
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: keterangan in /home/rapierte/public_html/mantap/getapprove.php on line 39
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/getapprove.php on line 40
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/getapprove.php on line 41
+[30-Dec-2017 23:16:16 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/getapprove.php on line 42
+[31-Dec-2017 06:13:21 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[31-Dec-2017 06:14:51 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[31-Dec-2017 06:15:12 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[31-Dec-2017 08:58:11 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[31-Dec-2017 09:17:18 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[31-Dec-2017 09:19:27 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[31-Dec-2017 09:22:09 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[31-Dec-2017 09:24:35 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[31-Dec-2017 19:12:57 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[01-Jan-2018 10:16:23 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[01-Jan-2018 10:27:48 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[01-Jan-2018 11:23:50 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[01-Jan-2018 11:30:54 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[01-Jan-2018 11:38:19 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[01-Jan-2018 11:38:51 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/edituserprofile.php on line 7
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/edituserprofile.php on line 7
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/edituserprofile.php on line 7
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 13:33:43 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 13:33:53 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/edituserprofile.php on line 7
+[01-Jan-2018 13:33:53 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 13:33:53 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 13:33:53 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 13:33:55 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/edituserprofile.php on line 7
+[01-Jan-2018 13:33:55 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 13:33:55 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 13:33:55 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 13:33:59 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/edituserprofile.php on line 7
+[01-Jan-2018 13:33:59 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 13:33:59 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 13:33:59 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/edituserprofile.php on line 7
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/edituserprofile.php on line 7
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/edituserprofile.php on line 7
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 13:34:00 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 13:34:01 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/edituserprofile.php on line 7
+[01-Jan-2018 13:34:01 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 13:34:01 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 13:34:01 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 14:29:29 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[01-Jan-2018 14:29:55 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[01-Jan-2018 19:23:06 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/edituserprofile.php on line 8
+[01-Jan-2018 19:23:06 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/edituserprofile.php on line 9
+[01-Jan-2018 19:23:06 Asia/Jakarta] PHP Notice:  Undefined index: email in /home/rapierte/public_html/mantap/edituserprofile.php on line 10
+[01-Jan-2018 19:23:06 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/edituserprofile.php on line 11
+[01-Jan-2018 19:23:06 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/edituserprofile.php on line 34
+[01-Jan-2018 19:26:00 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getuserprofile.php on line 30
+[05-Jan-2018 08:51:06 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[09-Jan-2018 09:37:16 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[09-Jan-2018 09:38:25 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[09-Jan-2018 09:38:55 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[09-Jan-2018 09:39:13 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[09-Jan-2018 09:39:30 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[09-Jan-2018 09:39:56 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[09-Jan-2018 09:40:19 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[10-Jan-2018 05:40:12 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[10-Jan-2018 07:56:34 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[10-Jan-2018 07:56:42 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[10-Jan-2018 08:01:54 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[10-Jan-2018 08:02:29 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[10-Jan-2018 08:37:32 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 26
+[10-Jan-2018 08:38:32 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[10-Jan-2018 08:43:05 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[10-Jan-2018 08:43:48 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[10-Jan-2018 08:44:50 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[10-Jan-2018 09:14:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[10-Jan-2018 09:15:52 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[10-Jan-2018 09:16:10 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[10-Jan-2018 21:28:34 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[10-Jan-2018 22:25:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[10-Jan-2018 22:27:26 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[10-Jan-2018 22:28:52 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[11-Jan-2018 08:20:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[11-Jan-2018 09:39:59 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[11-Jan-2018 15:36:43 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[11-Jan-2018 15:37:06 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[11-Jan-2018 15:37:51 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[11-Jan-2018 15:38:06 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[11-Jan-2018 16:20:09 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[11-Jan-2018 16:20:29 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[12-Jan-2018 19:24:41 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[12-Jan-2018 19:25:04 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[12-Jan-2018 19:25:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 09:29:23 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 09:29:24 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 09:30:09 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 10:21:27 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 10:23:10 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 10:31:22 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 10:33:03 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 10:38:31 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 10:38:52 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 10:39:31 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 11:38:32 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 11:38:57 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 11:39:11 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 13:46:50 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[13-Jan-2018 13:47:03 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[14-Jan-2018 10:10:04 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[14-Jan-2018 10:10:11 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[14-Jan-2018 16:14:08 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 09:20:13 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 09:20:43 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 19:30:56 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/login.php on line 7
+[15-Jan-2018 19:30:56 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/login.php on line 8
+[15-Jan-2018 21:30:43 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 21:31:05 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 21:31:10 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 21:31:19 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 21:31:44 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 21:38:12 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 21:38:28 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 21:38:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 21:38:53 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 21:39:04 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 21:41:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:23:24 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rapierte/public_html/mantap/login.php on line 7
+[15-Jan-2018 22:23:24 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rapierte/public_html/mantap/login.php on line 8
+[15-Jan-2018 22:24:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:26:53 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:27:19 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:31:12 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:34:24 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:37:46 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:39:13 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:39:35 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:42:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/rapierte/public_html/mantap/read_users.php on line 37
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: last_login in /home/rapierte/public_html/mantap/read_users.php on line 38
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/rapierte/public_html/mantap/read_users.php on line 37
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: last_login in /home/rapierte/public_html/mantap/read_users.php on line 38
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/rapierte/public_html/mantap/read_users.php on line 37
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: last_login in /home/rapierte/public_html/mantap/read_users.php on line 38
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/rapierte/public_html/mantap/read_users.php on line 37
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: last_login in /home/rapierte/public_html/mantap/read_users.php on line 38
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/rapierte/public_html/mantap/read_users.php on line 37
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: last_login in /home/rapierte/public_html/mantap/read_users.php on line 38
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/rapierte/public_html/mantap/read_users.php on line 37
+[15-Jan-2018 22:43:58 Asia/Jakarta] PHP Notice:  Undefined index: last_login in /home/rapierte/public_html/mantap/read_users.php on line 38
+[15-Jan-2018 22:44:37 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 22:50:31 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[15-Jan-2018 23:08:11 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 06:33:09 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 06:58:56 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 06:59:08 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 07:06:08 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 07:11:24 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 07:32:34 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 07:53:07 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 08:58:01 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 08:58:10 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 08:58:22 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 08:58:35 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:02:17 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:08:48 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:09:55 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:47:52 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:48:15 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:48:51 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:50:09 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:50:25 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:50:40 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:50:45 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:50:50 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:50:50 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:51:01 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:51:27 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:51:47 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:52:31 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:52:43 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:52:48 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:53:11 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:54:06 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 09:55:05 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 10:19:58 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 10:20:23 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 10:21:06 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 10:22:46 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 10:23:01 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 10:23:07 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 10:24:02 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 10:24:44 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:22:57 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:24:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:29:27 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:31:27 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:33:20 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:35:08 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:39:19 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:39:37 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:41:00 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:41:17 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:42:18 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 13:42:38 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 21:34:46 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 21:35:59 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 21:36:29 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 21:36:38 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 21:39:01 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 21:39:28 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[16-Jan-2018 21:51:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 07:08:21 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 07:09:52 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 07:11:32 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 07:13:28 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 07:14:11 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 07:14:15 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 07:14:25 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 11:13:02 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 12:15:08 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 12:15:24 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 12:16:43 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 12:19:01 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 12:37:43 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 12:38:01 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 12:46:53 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 12:48:39 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 12:49:10 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 13:03:44 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 13:07:55 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 13:19:09 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 13:19:23 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 13:20:28 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[17-Jan-2018 13:34:59 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[18-Jan-2018 12:59:59 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[18-Jan-2018 13:19:01 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[18-Jan-2018 13:21:42 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[20-Jan-2018 23:56:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rapierte/public_html/mantap/getuserdelegate.php on line 18
+[20-Jan-2018 23:56:31 Asia/Jakarta] PHP Notice:  Undefined variable: query2 in /home/rapierte/public_html/mantap/getuserdelegate.php on line 24
+[20-Jan-2018 23:57:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rapierte/public_html/mantap/getuserdelegate.php on line 18
+[20-Jan-2018 23:57:21 Asia/Jakarta] PHP Notice:  Undefined variable: query2 in /home/rapierte/public_html/mantap/getuserdelegate.php on line 24
+[20-Jan-2018 23:58:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rapierte/public_html/mantap/getuserdelegate.php on line 18
+[21-Jan-2018 00:01:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rapierte/public_html/mantap/getuserdelegate.php on line 18
+[21-Jan-2018 00:04:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rapierte/public_html/mantap/getuserdelegate.php on line 18
+[21-Jan-2018 00:04:17 Asia/Jakarta] PHP Notice:  Undefined variable: query2 in /home/rapierte/public_html/mantap/getuserdelegate.php on line 24
+[21-Jan-2018 09:12:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rapierte/public_html/mantap/getuserdelegate.php on line 18
+[21-Jan-2018 09:13:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rapierte/public_html/mantap/getuserdelegate.php on line 18
+[21-Jan-2018 09:17:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/rapierte/public_html/mantap/getuserdelegate.php on line 18
+[21-Jan-2018 09:17:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getuserdelegate.php on line 25
+[21-Jan-2018 09:19:07 Asia/Jakarta] PHP Notice:  Undefined index: jabatan in /home/rapierte/public_html/mantap/getuserdelegate.php on line 20
+[21-Jan-2018 09:20:50 Asia/Jakarta] PHP Notice:  Undefined index: jabatan in /home/rapierte/public_html/mantap/getuserdelegate.php on line 20
+[21-Jan-2018 09:25:22 Asia/Jakarta] PHP Notice:  Undefined index: jabatan in /home/rapierte/public_html/mantap/getuserdelegate.php on line 20
+[21-Jan-2018 09:25:36 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/getuserdelegate.php on line 6
+[21-Jan-2018 09:25:52 Asia/Jakarta] PHP Notice:  Undefined index: jabatan in /home/rapierte/public_html/mantap/getuserdelegate.php on line 20
+[21-Jan-2018 09:26:25 Asia/Jakarta] PHP Notice:  Undefined index: jabatan in /home/rapierte/public_html/mantap/getuserdelegate.php on line 20
+[21-Jan-2018 11:42:03 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[21-Jan-2018 11:49:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[21-Jan-2018 11:55:06 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[21-Jan-2018 12:10:07 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[21-Jan-2018 12:23:10 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[21-Jan-2018 12:35:53 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[21-Jan-2018 12:42:05 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 13:34:11 Asia/Jakarta] PHP Notice:  Undefined index: work in /home/rapierte/public_html/mantap/historyapprove.php on line 36
+[22-Jan-2018 13:34:11 Asia/Jakarta] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rapierte/public_html/mantap/historyapprove.php on line 46
+[22-Jan-2018 13:34:11 Asia/Jakarta] PHP Notice:  Undefined index: work in /home/rapierte/public_html/mantap/historyapprove.php on line 36
+[22-Jan-2018 13:34:11 Asia/Jakarta] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rapierte/public_html/mantap/historyapprove.php on line 46
+[22-Jan-2018 13:34:32 Asia/Jakarta] PHP Notice:  Undefined index: work in /home/rapierte/public_html/mantap/historyapprove.php on line 36
+[22-Jan-2018 13:34:32 Asia/Jakarta] PHP Notice:  Undefined index: work in /home/rapierte/public_html/mantap/historyapprove.php on line 36
+[22-Jan-2018 13:45:24 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 13:46:06 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 13:46:15 Asia/Jakarta] PHP Notice:  Undefined index: work in /home/rapierte/public_html/mantap/historyapprove.php on line 36
+[22-Jan-2018 13:46:15 Asia/Jakarta] PHP Notice:  Undefined index: work in /home/rapierte/public_html/mantap/historyapprove.php on line 36
+[22-Jan-2018 16:54:13 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 16:56:37 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 17:19:58 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 17:20:15 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 17:45:22 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/senduserdelegate.php on line 6
+[22-Jan-2018 17:45:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rapierte/public_html/mantap/senduserdelegate.php on line 7
+[22-Jan-2018 18:07:30 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 18:07:41 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 18:08:54 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 19:07:43 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[22-Jan-2018 19:07:50 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 00:03:29 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 11:02:13 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 11:02:46 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 11:06:17 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 11:07:05 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 11:32:04 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 11:32:04 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 14:21:17 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 20:19:23 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 21:23:47 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 22:09:22 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 22:21:22 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 22:38:40 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 22:38:50 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[23-Jan-2018 22:39:09 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 13:37:30 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 13:43:21 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 13:47:16 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 13:47:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 13:47:58 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 14:16:22 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 15:14:00 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 19:10:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 19:11:09 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 19:11:24 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 19:27:20 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 19:34:50 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 19:45:13 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 20:01:34 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 20:31:47 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 20:49:27 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 21:42:52 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 21:54:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 22:01:42 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 22:18:12 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 22:35:59 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 22:56:20 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 22:56:40 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 23:05:22 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 23:19:17 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 23:28:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 23:49:14 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[24-Jan-2018 23:55:39 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[25-Jan-2018 00:49:32 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[25-Jan-2018 00:56:51 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[25-Jan-2018 01:01:48 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[25-Jan-2018 08:27:51 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[25-Jan-2018 08:29:44 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[25-Jan-2018 08:58:22 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[25-Jan-2018 09:41:16 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[25-Jan-2018 09:53:04 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[25-Jan-2018 09:59:52 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[26-Jan-2018 22:47:40 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[26-Jan-2018 23:35:43 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[27-Jan-2018 10:20:57 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[27-Jan-2018 10:21:19 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[27-Jan-2018 10:46:06 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 06:55:27 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 07:17:31 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 07:25:42 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 07:30:47 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 18:21:09 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 19:53:17 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 20:06:00 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 22:11:02 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 22:22:19 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 22:22:27 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 22:22:35 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 22:49:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rapierte/public_html/mantap/cloudmesagging.php on line 8
+[28-Jan-2018 23:08:43 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 23:28:12 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 23:40:22 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 23:48:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[28-Jan-2018 23:55:08 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 00:00:07 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 08:29:21 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 11:33:49 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 11:35:00 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 11:35:28 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 11:35:37 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 11:36:11 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 12:49:24 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 12:50:29 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 13:48:58 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 13:55:27 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 13:55:41 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 14:12:08 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 14:12:17 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 14:13:23 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 14:13:55 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 14:14:25 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 14:28:22 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 14:34:13 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 14:34:55 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 14:35:34 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 14:35:58 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 15:02:23 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[29-Jan-2018 15:03:50 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 05:41:57 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 05:42:19 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 05:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 06:04:50 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 21:30:20 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 21:31:10 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 21:33:16 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 21:33:41 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 21:34:35 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 21:34:48 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 21:35:08 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 21:35:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 21:35:57 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 21:48:44 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:42:29 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 22:46:37 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:01:53 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:02:41 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:12:46 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:13:11 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:14:09 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 31
+[30-Jan-2018 23:15:44 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 32
+[30-Jan-2018 23:38:47 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 32
+[30-Jan-2018 23:38:47 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 32
+[30-Jan-2018 23:38:47 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 32
+[30-Jan-2018 23:39:51 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[30-Jan-2018 23:39:51 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[30-Jan-2018 23:39:51 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:33:32 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[31-Jan-2018 00:33:35 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:33:35 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:33:35 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:38:48 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[31-Jan-2018 00:38:48 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:38:48 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:38:48 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:45:37 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[31-Jan-2018 00:45:37 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:45:37 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:45:37 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:45:47 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:45:47 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:45:47 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:46:39 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:46:39 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:46:39 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[31-Jan-2018 00:46:42 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[31-Jan-2018 00:47:04 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 05:46:59 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 07:41:36 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 08:08:45 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 08:27:37 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 20:18:23 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 20:42:46 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 20:55:24 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 21:11:39 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 21:52:46 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 21:52:46 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 22:05:52 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 22:09:33 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/addattendance.php on line 7
+[01-Feb-2018 22:09:33 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/addattendance.php on line 9
+[01-Feb-2018 22:09:33 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/addattendance.php on line 10
+[01-Feb-2018 22:09:33 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/rapierte/public_html/mantap/addattendance.php on line 11
+[01-Feb-2018 22:09:35 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/addattendance.php on line 7
+[01-Feb-2018 22:09:35 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/addattendance.php on line 9
+[01-Feb-2018 22:09:35 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/addattendance.php on line 10
+[01-Feb-2018 22:09:35 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/rapierte/public_html/mantap/addattendance.php on line 11
+[01-Feb-2018 22:16:16 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/addattendance.php on line 7
+[01-Feb-2018 22:16:16 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/addattendance.php on line 9
+[01-Feb-2018 22:16:16 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/addattendance.php on line 10
+[01-Feb-2018 22:16:16 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/rapierte/public_html/mantap/addattendance.php on line 11
+[01-Feb-2018 22:22:10 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 22:26:38 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 22:31:00 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/addattendance.php on line 7
+[01-Feb-2018 22:31:00 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/addattendance.php on line 9
+[01-Feb-2018 22:31:00 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/addattendance.php on line 10
+[01-Feb-2018 22:31:00 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/rapierte/public_html/mantap/addattendance.php on line 11
+[01-Feb-2018 22:49:00 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 22:57:14 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 22:58:14 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 22:58:51 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 22:59:12 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[01-Feb-2018 22:59:12 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[01-Feb-2018 22:59:12 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[01-Feb-2018 22:59:14 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 23:32:42 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 23:35:16 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/addattendance.php on line 7
+[01-Feb-2018 23:35:16 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/addattendance.php on line 9
+[01-Feb-2018 23:35:16 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/addattendance.php on line 10
+[01-Feb-2018 23:35:16 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/rapierte/public_html/mantap/addattendance.php on line 11
+[01-Feb-2018 23:38:44 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/addattendance.php on line 7
+[01-Feb-2018 23:38:44 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/addattendance.php on line 9
+[01-Feb-2018 23:38:44 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/addattendance.php on line 10
+[01-Feb-2018 23:38:44 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/rapierte/public_html/mantap/addattendance.php on line 11
+[01-Feb-2018 23:54:16 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 23:55:04 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/addattendance.php on line 8
+[01-Feb-2018 23:55:04 Asia/Jakarta] PHP Notice:  Undefined index: image in /home/rapierte/public_html/mantap/addattendance.php on line 42
+[01-Feb-2018 23:55:04 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[01-Feb-2018 23:57:27 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[01-Feb-2018 23:57:28 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[02-Feb-2018 00:15:33 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[02-Feb-2018 00:15:33 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[02-Feb-2018 00:15:38 Asia/Jakarta] PHP Notice:  Undefined variable: json in /home/rapierte/public_html/mantap/getsessioncheck.php on line 23
+[02-Feb-2018 00:15:38 Asia/Jakarta] PHP Notice:  Undefined index: created_on in /home/rapierte/public_html/mantap/fetchnotification.php on line 33
+[02-Feb-2018 00:18:16 Asia/Jakarta] PHP Notice:  Undefined index: user_id in /home/rapierte/public_html/mantap/addattendance.php on line 7
+[02-Feb-2018 00:18:16 Asia/Jakarta] PHP Notice:  Undefined index: lat in /home/rapierte/public_html/mantap/addattendance.php on line 9
+[02-Feb-2018 00:18:16 Asia/Jakarta] PHP Notice:  Undefined index: lang in /home/rapierte/public_html/mantap/addattendance.php on line 10
+[02-Feb-2018 00:18:16 Asia/Jakarta] PHP Notice:  Undefined index: start in /home/rapierte/public_html/mantap/addattendance.php on line 11

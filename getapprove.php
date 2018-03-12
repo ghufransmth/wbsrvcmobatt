@@ -1,7 +1,7 @@
 <?php
 	include "koneksi.php";
 	
-	include "url_attendance.php";
+	include "url_public.php";
 	
 	class usr{}
 
@@ -39,7 +39,7 @@
             		    $json['start_date']= $row['start_date'];
             		    $json['end_date']= $row['end_date'];
             		    $json['keterangan']= $row['keterangan'];
-            		    $path = $url_attendance."images/".$row['image']."";
+            		    $path = $url_public."images/".$row['image']."";
             		    $json['image']= $path;
             		    $json['lat']= $row['lat'];
             		    $json['lang']= $row['lang'];
@@ -57,8 +57,8 @@
             		    $json['id']= $row[0];
             		    $json['user_id']= $row['user_id'];
             		    $json['date']= $row['date'];
-            		    $json['start_hour']= $row['start_hour'];
-            		    $json['end_hour']= $row['end_hour'];
+            		    $json['start_hour']= date("h:m", strtotime($row['start_hour']));
+            		    $json['end_hour']= date("h:m", strtotime($row['end_hour']));
             		    $json['status_approv']= $row['status_approv'];
             		    $json['created_on']= date("F j, Y", strtotime($row['created_on']));
             		    $json['time']= date("g:i a", strtotime($row['created_on']));
@@ -72,8 +72,8 @@
             		    $json = array();
             		    $json['id']= $row[0];
             		    $json['user_id']= $row['user_id'];
-            		    $json['start_date']= $row['start_date'];
-            		    $json['end_date']= $row['end_date'];
+            		    $json['start_date']= date("F j, Y", strtotime($row['start_date']));
+            		    $json['end_date']= date("F j, Y", strtotime($row['end_date']));
             		    $json['reason']= $row['reason'];
             		    $json['status_approv']= $row['status_approv'];
             		    $json['created_on']= date("F j, Y", strtotime($row['created_on']));

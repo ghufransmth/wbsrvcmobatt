@@ -1,7 +1,7 @@
 <?php
 	include "koneksi.php";
 	
-	include "url_attendance.php";
+	include "url_public.php";
 	
 	class usr{}
 
@@ -51,7 +51,7 @@
             		    $row['work'] = 'Telah Selesai Bekerja';
             		    $json['work']= $row['work'];
             		    
-            		    $path = $url_attendance."/images/".$row['image']."";
+            		    $path = $url_public."/images/".$row['image']."";
             		    $json['image']= $path; 
             		    
             		    // push single puasa into final response array

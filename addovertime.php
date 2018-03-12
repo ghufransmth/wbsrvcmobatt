@@ -8,6 +8,7 @@
 	$start_hour = $_POST["start_hour"];
 	$end_hour   = $_POST["end_hour"];
 	$keterangan = $_POST["keterangan"];
+    $created_on = $_POST["created_on"];
 
 	if ((empty($user_id))) {
 		$response = new usr();
@@ -51,7 +52,7 @@
                 			$stmt = sqlsrv_num_rows($users);
 							
 							if ($stmt > 0){
-								$sql = "INSERT INTO dbo.tb_overtime (user_id, date, start_hour, end_hour,created_on, keterangan) VALUES('".$user_id."',CONVERT(datetime,'".$date."'),'".$start_hour."','".$end_hour."',GETDATE(),'".$keterangan."')";
+								$sql = "INSERT INTO dbo.tb_overtime (user_id, date, start_hour, end_hour,created_on, keterangan) VALUES('".$user_id."',CONVERT(datetime,'".$date."'),'".$start_hour."','".$end_hour."','".$created_on."','".$keterangan."')";
                 				$queries = sqlsrv_query($conn, $sql, array());
 								$stm = sqlsrv_rows_affected($queries);
 								//echo $sql;

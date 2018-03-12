@@ -1,6 +1,8 @@
 <?php
 	include "koneksi.php";
 	
+	include "url_mantap.php";
+	
 	class usr{}
 
 	$user_id    = $_POST["user_id"];
@@ -12,34 +14,31 @@
 		die(json_encode($response));
 	} else {
 		if (!empty($user_id)){
-			
-		    $sql = "SELECT CONVERT(varchar, created_on,120) AS created_on, history FROM dbo.tb_history WHERE user_id=$user_id ORDER BY created_on DESC";
-			$query = sqlsrv_query($conn, $sql, array(), array("scrollable" => 'static'));
+		    
+			$query = sqlsrv_query($conn, "SELECT * FROM dbo.tb_slip_gaji WHERE user_id='".$user_id."' and deleted = 0", array(),array("scrollable" => 'static'));
 			$count = sqlsrv_num_rows($query);
-
+			
 			if ($count > 0){
 					$response = new usr();
 					$response->success = 1;
 					$response->data = array();
             		while ($row = sqlsrv_fetch_array($query)) {
-            			// temp user array
+            		    // temp user array
             			$json = array();
-            		    $json['created_on']= date("d/m/Y", strtotime($row['created_on']));
-						$json['time']= date("H:i a", strtotime($row['created_on']));  
-            		    $json['history']= $row['history'];
-            		    
+            			$path = $path_url.$row['file_slip_gaji']."";
+            		    $json['file_slip_gaji']= $path;
             		    // push single puasa into final response array
 			            array_push($response->data, $json);
             		}
-					$response->message = "Data History.";
+					$response->message = "Data Slip Gaji.";
 					die(json_encode($response));
 
 			} else {
 					$response = new usr();
 					$response->success = 0;
-					$response->message = "Anda bukan user.";
+					$response->message = "Tidak ada data.";
 					die(json_encode($response));
-			} 
+			}
 				
 
 		

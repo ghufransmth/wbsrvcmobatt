@@ -13,7 +13,7 @@
 	} else {
 		if (!empty($user_id)){
 		    
-			$query = sqlsrv_query($conn, "SELECT CONVERT(varchar, created_on, 120) AS created_on,CONVERT(varchar, start_date, 120) AS start_date,CONVERT(varchar, end_date, 120) AS end_date,reason,status_approv FROM dbo.tb_timeoff WHERE user_id='".$user_id."' ORDER BY created_on DESC", array(),array("scrollable" => 'static'));
+			$query = sqlsrv_query($conn, "SELECT CONVERT(varchar, created_on, 120) AS created_on,CONVERT(varchar, start_date, 120) AS start_date,CONVERT(varchar, end_date, 120) AS end_date, b.reason_desc as reason ,status_approv FROM dbo.tb_timeoff as a LEFT JOIN dbo.tb_reason_timeoff_picklist as b ON (a.reason = b.id) WHERE a.user_id='".$user_id."' ORDER BY a.created_on DESC", array(),array("scrollable" => 'static'));
 			$count = sqlsrv_num_rows($query);
 			
 			if ($count > 0){

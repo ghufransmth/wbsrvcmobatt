@@ -7,6 +7,7 @@
 	$start_date = $_POST["start_date"];
 	$end_date   = $_POST["end_date"];
 	$reason     = $_POST["reason"];
+	$created_on = $_POST["created_on"];
 
 	if ((empty($user_id))) {
 		$response = new usr();
@@ -39,7 +40,7 @@
         			$num_rows = sqlsrv_num_rows($query);
         
         			if ($num_rows > 0){
-						$sql = "INSERT INTO dbo.tb_timeoff (user_id, start_date, end_date, reason, created_on) VALUES('".$user_id."',CONVERT(datetime,'".$start_date."'),CONVERT(datetime,'".$end_date."'), '".$reason."', GETDATE())";
+						$sql = "INSERT INTO dbo.tb_timeoff (user_id, start_date, end_date, reason, created_on) VALUES('".$user_id."',CONVERT(datetime,'".$start_date."'),CONVERT(datetime,'".$end_date."'), '".$reason."', '".$created_on."')";
         				$query2 = sqlsrv_query($conn, $sql,array());
 						$num_rows2 = sqlsrv_rows_affected($query2);
 						//echo $sql;

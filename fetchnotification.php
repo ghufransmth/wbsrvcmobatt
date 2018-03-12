@@ -15,9 +15,9 @@
 		    
 			$sql = "SELECT CONVERT(varchar,a.start_date,120) as tanggal, 'Absensi Kehadiran' as keterangan, a.status_approv, b.first_name as approve_by FROM tb_geoatt as a LEFT JOIN tb_users as b ON (a.approve_by = b.id) WHERE a.user_id = '".$user_id."' AND a.seen = 1
                 UNION 
-                SELECT CONVERT(varchar,c.date,120) as tanggal, c.keterangan as keterangan, c.status_approv, d.first_name as approve_by FROM tb_overtime as c LEFT JOIN tb_users as d ON (c.approve_by = d.id) WHERE c.user_id = '".$user_id."' AND c.seen = 1
-                UNION 
-                SELECT CONVERT(varchar,e.start_date,120) as tanggal, e.reason as keterangan, e.status_approv, f.first_name as approve_by FROM tb_timeoff as e LEFT JOIN tb_users as f ON (e.approve_by = f.id) WHERE e.user_id = '".$user_id."' AND e.seen = 1
+                SELECT CONVERT(varchar,c.created_on,120) as tanggal, c.keterangan as keterangan, c.status_approv, d.first_name as approve_by FROM tb_overtime as c LEFT JOIN tb_users as d ON (c.approve_by = d.id) WHERE c.user_id = '".$user_id."' AND c.seen = 1
+                UNION       
+                SELECT CONVERT(varchar,e.created_on,120) as tanggal, g.reason_desc as keterangan, e.status_approv, f.first_name as approve_by FROM tb_timeoff as e LEFT JOIN tb_users as f ON (e.approve_by = f.id) LEFT JOIN tb_reason_timeoff_picklist as g ON (e.reason = g.id) WHERE e.user_id = '".$user_id."' AND e.seen = 1
                 ORDER BY tanggal DESC";
 			$query = sqlsrv_query($conn, $sql, array(),array("scrollable" => 'static'));
             $count = sqlsrv_num_rows($query);
